@@ -16,6 +16,7 @@ dependencies {
             "org.junit.jupiter:junit-jupiter:5.9.2",
             "org.slf4j:slf4j-simple:2.0.6")
 }
+
 test {
     useJUnitPlatform()
 }
